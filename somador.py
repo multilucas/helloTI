@@ -1,4 +1,4 @@
-a = 30
-b = 50
-soma = a + b
-print ('A soma dos números é',soma)
+pergunta1 = str(input('Insira um valor: ')
+             raiz = valor ** (1/2)
+                print('A raiz quadrada de {} é {}!',.format(pergunta1, raiz))
+             
